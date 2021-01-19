@@ -1,1 +1,4 @@
-# image_classification_1__solution
+## some general used image classification methods.
+### data generator
+### label smoothing
+### cross validation
